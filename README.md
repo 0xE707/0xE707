@@ -1,4 +1,4 @@
-**Tech Toolbox🧰**<br><h1>
+<h1>**Tech Toolbo **</h1>
 <p align="left">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40" height="40"/> 
