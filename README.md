@@ -1,7 +1,7 @@
-<h2>HEY,! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
+<h2>HEY,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
 <p><b> Am LZboy17 <b><p>
+<iframe src="https://giphy.com/embed/ge8r344syJYIM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-and-white-flag-american-ge8r344syJYIM">via GIPHY</a></p>
 **Tech Toolbox🧰**<br>
-
 <p align="left">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40" height="40"/> 
