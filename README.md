@@ -25,7 +25,7 @@ Full-time **management information system** (**[BR](https://requestinfo.datascie
  
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
 
-<img src="https://github.com/Xh4H/hackthebox-1/blob/master/icon.png"> 
+<img src="https://github.com/Xh4H/hackthebox-1/blob/master/icon.png" alt="Hackthebox" width="40"> 
   
    <br>
   <a href="https://github.com/Josee9988/project-template/issues">
