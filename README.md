@@ -1,10 +1,6 @@
 <h1> Tech Toolbools </h1>
 <p align="left">
  
- 
-
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=badmojr.kObslXNKJX" alt="visits"></p>
- 
 
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40" height="40"/> 
  
