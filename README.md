@@ -21,13 +21,9 @@
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Numpy.png" alt="Numpy" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pandas.png" alt="Pandas" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/OpenCV.jpg" alt="OpenCV" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/TensorFlow.png" alt="TensorFlow" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Azure.png" alt="Azure" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/AWS.png" alt="AWS" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Firebase.png" alt="Firebase" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Heroku.png" alt="Heroku" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/>
 
