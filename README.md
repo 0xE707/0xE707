@@ -1,7 +1,7 @@
 <h1>WHO AM I</h1>
 <div style='fount'>
 
-Full-time **management information system** (**[BR](https://requestinfo.datascience.berkeley.edu/index39-d.html?experimentid=19609624443&s=mastersindatasciencesite&l=schools_best-masters-in-information-systems--multi-featured-program&_ga=2.129232716.1387466641.1634996181-1565896407.1634996181)**)🧑‍🎓🎓 Web applications development (**[DAW](https://www.incorta.com/)"")Technician in microcomputer systems and networks (**[SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)"").
+Full-time **management information system** (**[BR](https://requestinfo.datascience.berkeley.edu/index39-d.html?experimentid=19609624443&s=mastersindatasciencesite&l=schools_best-masters-in-information-systems--multi-featured-program&_ga=2.129232716.1387466641.1634996181-1565896407.1634996181)**)🧑‍🎓🎓 Web applications development (**[DAW](https://www.incorta.com/)**)Technician in microcomputer systems and networks (**[SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
 
 </div>
  
