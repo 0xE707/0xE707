@@ -1,6 +1,6 @@
 <h1>WHO AM I<h1>
-<div>
- Full-time computer engineering student (CE)studentmortar_board. Senior technician in web applications development (DAW). Technician in microcomputer systems and networks (SMR).
+<div style='fount'>
+
 </div>
  
  
@@ -36,3 +36,48 @@
   </a>
 </p>
 </div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <style>
+h2 {
+color:fff;
+font-size: 20px;
+}
+social.h2 {
+color:pink;
+font-size: 14px;
+}
+social.h2.h2color {
+color:purple;
+font-size: 10px;
+}
+tv.h2 {
+color:green;
+font-size: 14px;
+}
+tv.h2.h2color {
+color:orange;
+font-size: 10px;
+}
+ </style>
+
+ <h2>List of Companies </h2>
+ <div class="social">
+
+ <h2>     <A href="http://www.facebook.com">Facebook     </a>
+ <span class="h2color">Found in 2004     </span>     </h2> 
+ blah blah blah 
+
+ <h2>     <A href="http://www.twitter.com">Twitter     </a>
+ <span class="h2color">Found in 2007     </span>     </h2>
+ blah blah blah 
+
+ </div>
