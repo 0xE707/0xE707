@@ -41,12 +41,23 @@
  
  
  
+
+
+ <h2>List of Companies </h2>
+ <div class="social">
+
+ <h2>     <A href="http://www.facebook.com">Facebook     </a>
+ <span class="h2color">Found in 2004     </span>     </h2> 
+ blah blah blah 
+
+ <h2>     <A href="http://www.twitter.com">Twitter     </a>
+ <span class="h2color">Found in 2007     </span>     </h2>
+ blah blah blah 
+
+ </div>
+
  
- 
- 
- 
- 
- <style>
+  <style>
 h2 {
 color:fff;
 font-size: 20px;
@@ -68,16 +79,3 @@ color:orange;
 font-size: 10px;
 }
  </style>
-
- <h2>List of Companies </h2>
- <div class="social">
-
- <h2>     <A href="http://www.facebook.com">Facebook     </a>
- <span class="h2color">Found in 2004     </span>     </h2> 
- blah blah blah 
-
- <h2>     <A href="http://www.twitter.com">Twitter     </a>
- <span class="h2color">Found in 2007     </span>     </h2>
- blah blah blah 
-
- </div>
