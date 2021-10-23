@@ -1,4 +1,11 @@
 <h1>WHO AM I<h1>
+<div>
+ Full-time computer engineering student (CE)studentmortar_board. Senior technician in web applications development (DAW). Technician in microcomputer systems and networks (SMR).
+</div>
+ 
+ 
+ 
+ 
  
 <h1> Tech Toolbools </h1>
 <p align="left">
