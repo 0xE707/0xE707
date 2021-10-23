@@ -9,12 +9,12 @@ Full-time **management information system** (**[BR](https://requestinfo.datascie
  
  
 <h1> Tech Toolbools </h1>
-<p align="left">
+  <p align="left">
  
-<div align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40" height="40"/> 
+ <div align="center">
+ <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40"  height="40"/> 
  
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
+ <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
 
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Matlab.png" alt="Matlab" width="40" height="40"/>
  
@@ -25,6 +25,8 @@ Full-time **management information system** (**[BR](https://requestinfo.datascie
  
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
 
+<img src="https://github.com/Xh4H/hackthebox-1/blob/master/icon.png"> 
+  
    <br>
   <a href="https://github.com/Josee9988/project-template/issues">
     <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
