@@ -15,8 +15,7 @@ Full-time **management information system** (**[BR](https://requestinfo.datascie
  <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40"  height="40"/> 
  
  <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
- 
- 
+ <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/4d4234f7b194581d7a8eb74c7fafb4838fa943c8/TechStack/Visual%20Studio%20Code.png" alt="Vs" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Raspberry.png" alt="Raspberry Pi" width="40" height="40"/>
  
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/> 
