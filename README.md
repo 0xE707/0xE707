@@ -19,7 +19,7 @@ Full-time **management information system** (**[BR](https://requestinfo.datascie
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Raspberry.png" alt="Raspberry Pi" width="40" height="40"/>
  
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/> 
- <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Flask.jpg" alt="Python" width="40" height="40"/> 
+ <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/4d4234f7b194581d7a8eb74c7fafb4838fa943c8/TechStack/Flask.jpg" alt="Python" width="40" height="40"/> 
 
   <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
 
